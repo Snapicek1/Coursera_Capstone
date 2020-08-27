@@ -10,7 +10,7 @@ Final project Coursera Capstone Josef Sevcik.pptx
 
 Jupyter Notebook
 
-<b>Untitled(1).ipynb</b>
+Final_project_python.ipynb = unfortunately there is no visible code for unknow reason, before there was not showup the map. Please use Preview.html - you can download it and see in your internet browser
 
 Tableau Visualization
 
